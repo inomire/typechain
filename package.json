@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/inomire/typechain.git",
   "author": "Sean Park <sean.inomire@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
