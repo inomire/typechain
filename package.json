@@ -1,0 +1,9 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Blockchain in Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/inomire/typechain.git",
+  "author": "Sean Park <sean.inomire@gmail.com>",
+  "license": "MIT"
+}
